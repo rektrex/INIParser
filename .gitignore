@@ -1,0 +1,4 @@
+*
+!*.hs
+!*.ini
+!.gitignore
